@@ -1,9 +1,9 @@
 Comment by Lolikana :
 <p> Doing all the exercices for the first time using my limited knowledge and google. 
   <br>I am aware that my logic looks weird when I am reading my lines of code. 
-  <br>I will improve the code when my skills will get better.
+  <br>I will improve the code when my skills get better.
 </p>
-
+<hr>
 
 These are a series of JavaScript exercises intended to be used alongside the curriculum at 'The Odin Project'. They start simple and easy but get more complex and involved as you progress through them.
 
