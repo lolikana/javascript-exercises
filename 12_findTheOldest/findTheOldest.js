@@ -1,21 +1,23 @@
 const findTheOldest = function(value) {
-  //Calcul and Push the age in the array
-  let peopleAge = [];
+  //Calcul and Push the oldest age in the array
+  let peopleOldestAge = [];
   for (let age in value) {
-    peopleAge.push(value[age].yearOfDeath - value[age].yearOfBirth);
+    peopleOldestAge.push(value[age].yearOfDeath - value[age].yearOfBirth);
   };
-  //Find index of Oldest age in the peopleAge array and Push index's number
-  let peopleAgePos = [];
-  for (let i=peopleAge.indexOf(Math.max.apply(null, peopleAge));
-          i >= 0; 
-          i = peopleAge.indexOf(Math.max.apply(null, peopleAge)+1))
+  //Find index of oldest age in the peopleOldestAge's array
+  //Push index's number in peopleAgeIndex's array
+  let peopleAgeIndex = [];
+  for (let i = peopleOldestAge.indexOf(Math.max.apply(null, peopleOldestAge));
+          i >= 0;
+          i = peopleOldestAge.indexOf(Math.max.apply(null, peopleOldestAge)+1))
             {
-                peopleAgePos.push(i);
+                peopleAgeIndex.push(i);
             };
-  return peopleAgePos
-  //Return name thanks to array position
-
+  //Return name thanks to index array
+  return value[peopleAgeIndex];
 };
+
+//first test PASSED
 
 // Do not edit below this line
 module.exports = findTheOldest;
