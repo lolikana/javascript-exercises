@@ -1,7 +1,7 @@
 Comment by Lolikana :
 <p> Doing all the exercices for the first time using my limited knowledge and google. 
   <br>I am aware that my logic looks weird when I am reading my lines of code. 
-  <br>I will improve the code when my skills get better.
+  <br>I will improve the code when my skills are getting better.
 </p>
 <hr>
 
