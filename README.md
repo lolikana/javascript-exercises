@@ -1,8 +1,6 @@
 Comment by Lolikana :
-<p> Doing all the exercises for the first time using my limited knowledge and Google-sensei. 
-  <br>I am aware that my logic looks weird but for now I passed almost all the test.
-  <br>I will modify the code when my coding skills are getting better.
-  <br>On going.... currently doing exercise 12.
+<p> 
+  On going.... currently doing exercise 12.
 </p>
 <hr>
 
