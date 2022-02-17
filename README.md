@@ -1,7 +1,21 @@
-Comment by Lolikana :
-<p> 
-  On going.... currently doing exercise 12.
-</p>
+**Comment by Lolikana :**
+- [x] Exercise 1
+- [x] Exercise 2
+- [x] Exercise 3
+- [x] Exercise 4
+- [x] Exercise 5
+- [x] Exercise 6
+- [x] Exercise 7
+- [x] Exercise 8
+- [x] Exercise 9
+- [x] Exercise 10
+- [x] Exercise 11
+- [ ] Exercise 12
+- [ ] Exercise 13
+
+**On going...** 
+  
+  
 <hr>
 
 These are a series of JavaScript exercises intended to be used alongside the curriculum at 'The Odin Project'. They start simple and easy but get more complex and involved as you progress through them.
